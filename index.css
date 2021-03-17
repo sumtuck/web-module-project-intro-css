@@ -1,0 +1,111 @@
+header {margin: auto;
+  text-align: center;
+}
+
+.header-content .plan {
+  margin: 0 10px;
+  border: 1px solid lightgray;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 20px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  margin-bottom: 20px;
+  background:#FF764E;
+}
+
+.header-content .learn {
+  margin: 0 10px;
+  border: 1px solid lightgray;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 20px;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 20px;
+  background: #5ED3EB ;
+}
+
+.header-content .involved {
+  margin: 0 10px;
+  border: 1px solid lightgray;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 20px;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 20px;
+  background: #FFCD69;
+}
+
+h1 {font-family: 'chelsea market', cursive;
+  margin: 20px 0;
+  font-size: 40px;
+  text-align: center;}
+
+p {font-family: 'roboto', cursive}
+
+img {border-radius: 40px;
+  margin: 10px;}
+
+.mountain {display: inline-block;
+width: 10%
+}
+
+.fire {width: 25%;}
+
+.rv {width: 25%}
+
+.container-top {width: 600px;
+    margin: 0 auto;
+  }
+
+.container {width: 600px;
+text-align: center;
+  margin: 0 auto;
+}
+
+footer {margin: auto;
+  text-align: center}
+
+
+  .footer-content img {width: 100%;
+  height: 30%;}
+
+  .footer-content .plan {
+    margin: 0 10px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 20px;
+    background:#FF764E;
+  }
+  
+  .footer-content .learn {
+    margin: 0 10px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background: #5ED3EB ;
+  }
+  
+  .footer-content .involved {
+    margin: 0 10px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background: #FFCD69;
+  }
